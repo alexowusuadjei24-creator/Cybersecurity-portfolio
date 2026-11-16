@@ -1,11 +1,17 @@
-# Cybersecurity-portfolio
-T level Digital support and security student portfolio and lab write-ups
+Hi, I'm Alex Adjei 👋
 
-##Hi, I'm Alex Adjei.
-**T Level digital support & security student, Aspiring cyber security Aprrentice 
+Aspiring Cybersecurity Analyst | Home Lab Builder  
 
-**Location: **Briely Hill. 
-[LinkedIN profile](https://www.linkedin.com/in/alex-adjei-3b1a08447?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-**Goal:**Securing a cyber security Apprenticeship 
+ 🛡️ Focus Areas
+- **Security Operations & Monitoring:** SIEM setup, log analysis, 
+- **Network Security:** Packet capture analysis, firewall configuration, 
+- **Vulnerability Management & Penetration Testing** Vulnerability scanning with Nessus, Web app testing - OWASP Top 10,Burb 
 
-I am a T Level Digital support and security student passionate about network security, Threat analysis , and hands on lab environments. I actively build practical skills through home lap setups and coursework projects.
+## 🛠️ Tools & Platforms
+- Metasploit | Nmap | Nessus | KaliLinux | Active Directory | Burp Suite
+
+## 📜 Certifications & Learning
+- [Add any certs like CompTIA Security+, TryHackMe paths, or degrees here]
+
+## 📫 Connect With Me
+- LinkedIn: [Add your LinkedIn URL]
