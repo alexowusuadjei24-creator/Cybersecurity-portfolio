@@ -14,4 +14,5 @@ Aspiring Cybersecurity Analyst | Home Lab Builder
 - [Add any certs like CompTIA Security+, TryHackMe paths, or degrees here]
 
 ## 📫 Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: www.linkedin.com/in/alex-adjei-3b1a08447
+- 
